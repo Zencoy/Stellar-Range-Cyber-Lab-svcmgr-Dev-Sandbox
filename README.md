@@ -2,7 +2,10 @@
 
 > Dual-track build log: an isolated VMware cyber range for offensive/defensive security training, paired with native development of **svcmgr** (Stellar Service Manager) — a Go/Cobra CLI for encrypted server management, SSH tunneling, and structured logging.
 
-**Go 1.22** &nbsp;·&nbsp; **Status:** Active Development &nbsp;·&nbsp; **Platform:** VMware + WSL2 &nbsp;·&nbsp; **License:** MIT
+![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white)
+![Status](https://img.shields.io/badge/status-active--development-yellow)
+![Platform](https://img.shields.io/badge/platform-VMware%20%2B%20WSL2-blue)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## 📡 Overview
 
