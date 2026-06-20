@@ -58,7 +58,7 @@ graph TB
 | ~~Windows Server DC~~ | ~~4 GB~~ | ~~30 GB~~ | — | ⏸ Deferred (Phase 2) |
 | ~~Windows 10 Client~~ | ~~4 GB~~ | ~~40 GB~~ | — | ⏸ Deferred (Phase 2) |
 
-*Host baseline assumed: 16 GB RAM / 189 GB free storage — update with your actual `msinfo32` numbers.*
+*Host baseline assumed: 16 GB RAM / 189 GB free storage.*
 
 ## 🎯 Mission
 
